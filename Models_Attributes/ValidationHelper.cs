@@ -6,6 +6,7 @@ public static class ValidationHelper : Object
 {
 	static ValidationHelper()
 	{
+
 	}
 
 	public static bool IsValid(object entity)
